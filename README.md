@@ -1,6 +1,4 @@
-# English & Bangla Handwritten Text Recognition
+# Handwritten Text Recognition Project
 
-## Run the Web Application
-1. `git clone https://github.com/FarhanSadaf/handwritten-text-recognition.git`
-2. `pip install -r requirements.txt`
-3.  `streamlit run app.py`
+This is a machine learning project to recognize handwritten text using deep learning.
+
